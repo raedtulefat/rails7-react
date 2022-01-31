@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 ## SETUP RAILS
-  * close the repo
+  * clone the repo
     - cd into directory to where you want to clone the project
       > git clone https://github.com/raedtulefat/rails7-react.git
     - cd into the project that was cloned
